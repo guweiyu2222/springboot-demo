@@ -18,4 +18,4 @@ public interface StudentMapper {
 
 
 
-v2v2v2v2v2v2v2v2v2v2v2v2v
+v2v2v2v2v2v2v2v2v2v2v2v2v込込込込
